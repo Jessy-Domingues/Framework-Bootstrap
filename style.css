@@ -1,0 +1,157 @@
+body {
+  font-family: "montserrat", "sans-serif";
+}
+body .btn {
+  border-radius: 5px;
+  padding: 8px;
+  background-color: #23A6F0;
+  border: 0px;
+  font-size: 14px;
+}
+body .scdbtn {
+  border-radius: 5px;
+  padding: 8px;
+  background-color: #184C99;
+  border-color: #23A6F0;
+  font-size: 14px;
+  color: #23A6F0;
+}
+body .scdbtn:hover {
+  border: 0px;
+}
+body .thdbtn {
+  padding: 8px;
+  background-color: white;
+  border-color: #23A6F0;
+  font-size: 14px;
+  color: #23A6F0;
+}
+body .thdbtn:hover {
+  border: 0px;
+}
+body .frthbtn {
+  background-color: black;
+  padding: 2% 10%;
+}
+body .frthbtn i {
+  color: #FFCE31;
+}
+body #hero {
+  background-image: url(./Images/background.png);
+  background-size: cover;
+  background-position: center;
+}
+body #hero h2 {
+  font-size: 16px;
+  color: #23A6F0;
+}
+body #hero h1 {
+  font-size: 58px;
+  color: white;
+  line-height: 80px;
+  letter-spacing: 0.2px;
+}
+body #hero p {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: white;
+}
+body #hero span {
+  justify-self: unset;
+}
+body #hero .card {
+  border-radius: 0%;
+}
+body #hero .card .logo {
+  background-color: #E74040;
+  border-radius: 10px;
+}
+body #hero .card .logo i {
+  color: white;
+  font-size: 2em;
+}
+body #hero .card .card-text {
+  color: black;
+  font-size: 14px;
+  line-height: 20px;
+}
+body #scdsection {
+  padding-top: 30vh;
+  padding-bottom: 30vh;
+}
+body #scdsection .redline {
+  width: 94px;
+  height: 7px;
+}
+body #scdsection a {
+  text-decoration: none;
+  color: #23A6F0;
+}
+body #scdsection .rectangle {
+  padding-right: 19%;
+  padding-top: 16%;
+}
+body #thdsection {
+  padding-top: 20vh;
+  padding-bottom: 20vh;
+}
+body #thdsection .blocthree {
+  padding-bottom: 10vh;
+}
+body #thdsection h2 {
+  font-size: 2.5rem;
+}
+body #thdsection h6 {
+  color: #23A6F0;
+}
+body #thdsection span {
+  color: #40BB15;
+}
+body #thdsection .clock {
+  color: #23A6F0;
+}
+body #thdsection .graph {
+  color: orange;
+}
+body #thdsection .prog {
+  color: #40BB15;
+}
+body .littletitle {
+  color: #23A6F0;
+}
+body #frthsection {
+  padding-top: 20vh;
+  padding-bottom: 20vh;
+}
+body #frthsection .blocfour {
+  padding-bottom: 10vh;
+}
+body #frthsection .testimg {
+  border-radius: 50%;
+}
+body #frthsection .star {
+  color: #FFCE31;
+}
+body #frthsection h2 {
+  font-size: 2.5rem;
+}
+body #fithsection {
+  padding-top: 20vh;
+  padding-bottom: 20vh;
+}
+body #fithsection .blocfive {
+  padding-bottom: 10vh;
+}
+body #fithsection h2 {
+  font-size: 2.5rem;
+}
+body footer {
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+}
+body footer .social {
+  color: #23A6F0;
+}/*# sourceMappingURL=style.css.map */
